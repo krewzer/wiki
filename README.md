@@ -13,5 +13,5 @@
 
 ### readme-cruiser
 
-- 12-09-2019
+- *12-09-2019 : 
 Organization kami-kreuzer initialized with proposed project members @daemon1024, @xatishayx, @shermix .
